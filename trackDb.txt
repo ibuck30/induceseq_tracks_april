@@ -1,0 +1,39 @@
+track WT_EtOH
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/ibuck30/induceseq_tracks_april/main/WT_EtOH.bw
+shortLabel WT EtOH
+longLabel WT EtOH INDUCE-seq
+visibility full
+color 0,0,0
+
+track WT_4OHT
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/ibuck30/induceseq_tracks_april/main/WT_4OHT.bw
+shortLabel WT 4OHT
+longLabel WT 4OHT INDUCE-seq
+visibility full
+color 0,0,0
+
+track WT_4OHTIAA
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/ibuck30/induceseq_tracks_april/main/WT_4OHTIAA.bw
+shortLabel WT 4OHTIAA
+longLabel WT 4OHTIAA INDUCE-seq
+visibility full
+color 0,0,0
+
+track XRCC4_4OHT
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/ibuck30/induceseq_tracks_april/main/XRCC4.bw
+shortLabel XRCC4 4OHT
+longLabel XRCC4 4OHT INDUCE-seq
+visibility full
+color 0,0,0
+
+track XRCC4_4OHTIAA
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/ibuck30/induceseq_tracks_april/main/XRCC4_4OHTIAA.bw
+shortLabel XRCC4 4OHTIAA
+longLabel XRCC4 4OHTIAA INDUCE-seq
+visibility full
+color 0,0,0
