@@ -1,0 +1,5 @@
+hub induceseq_tracks_april
+shortLabel INDUCEseq_tracks_April
+longLabel INDUCE-seq DSB Comparison profiles
+genomesFile genomes.txt
+email indigo.buckler@wolfson.ox.ac.uk
